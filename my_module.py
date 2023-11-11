@@ -1,0 +1,1 @@
+names_list = "Angela, Ben, Jenny, Mihael, Cloe"
